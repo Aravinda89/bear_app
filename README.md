@@ -14,6 +14,6 @@ https://bearsapp.herokuapp.com/
 How to Deploy Fast.ai Models? (Voilà , Binder and Heroku)
 https://medium.com/unpackai/how-to-deploy-fast-ai-models-8704ea711ad2
 
-https://github.com/Aravinda89/bear_app/blob/main/webapp.gif
+![Alt Text](https://github.com/Aravinda89/bear_app/blob/main/webapp.gif)
 
 https://course.fast.ai/deployment_heroku
