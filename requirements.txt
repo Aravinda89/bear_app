@@ -1,6 +1,5 @@
-streamlit
-https://download.pytorch.org/whl/cpu/torch-1.4.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.5.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
-fastai2
-ipywidgets
+https://download.pytorch.org/whl/cpu/torch-1.7.1%2Bcpu-cp38-cp38-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.8.0-cp38-cp38-linux_x86_64.whl
+fastai=2.1.8
 voila
+ipywidgets
