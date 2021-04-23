@@ -1,5 +1,6 @@
-https://download.pytorch.org/whl/cpu/torch-1.7.1%2Bcpu-cp38-cp38-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.8.0-cp38-cp38-linux_x86_64.whl
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
 fastai
 voila
 ipywidgets
