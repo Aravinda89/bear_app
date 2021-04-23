@@ -16,4 +16,6 @@ https://medium.com/unpackai/how-to-deploy-fast-ai-models-8704ea711ad2
 
 ![Alt Text](https://github.com/Aravinda89/bear_app/blob/main/webapp.gif)
 
+![Alt Text](https://miro.medium.com/max/1200/1*0zHkYqOY6AT4q3Mk3pyTkw.gif)
+
 https://course.fast.ai/deployment_heroku
