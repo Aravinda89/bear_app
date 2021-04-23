@@ -5,3 +5,6 @@ Fast.ai Bear Classifier
 
 Classifies 3 types of bears.
 **Grizzly, Black,** and **Teddy Bears**.
+
+Deployed WebApp
+https://bearsapp.herokuapp.com/
